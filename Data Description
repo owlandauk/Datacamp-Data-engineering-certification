@@ -1,7 +1,7 @@
 ## Data
 
 The provided data is structured as follows:
-![Data Structure Diagram](Data/schema.png)
+![Data Structure Diagram](https://raw.githubusercontent.com/owlandauk/Datacamp-Data-engineering-certification/main/Data/schema.png)
 
 
 The function you write should return data as described below.
